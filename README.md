@@ -3,5 +3,5 @@
 I'm Ivan </h1>
 
 - 👨‍🎓 Data science student
-- 👨🏽‍💻 I write programs for Arduino, STMicroelectronics, Nuvoton
+- 👨🏽‍💻 I create small projects on Arduino, STMicroelectronics, Nuvoton
 - 📫 How to reach me https://t.me/ivereshchagin
